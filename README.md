@@ -1,1 +1,2 @@
-# SAMPLE-COLLECTION
+DEMO PROJECT
+Watch my tutorial
