@@ -1,2 +1,2 @@
-#DEMO PROJECT
+#DEMO PROJECT#
 Watch my tutorial
